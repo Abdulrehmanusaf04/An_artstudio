@@ -2,8 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
- <div className="about-page">
-    <section className="about">
+    <section id="about" className="about">
       <div className="about-content">
         <h2>About The Artist</h2>
         <div className="about-grid">
@@ -28,7 +27,6 @@ const About = () => {
         </div>
       </div>
     </section>
- </div>
   );
 };
 
