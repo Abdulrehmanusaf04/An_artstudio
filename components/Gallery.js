@@ -1,4 +1,3 @@
-// Update each component to stand alone
 import React from 'react';
 
 const Gallery = () => {
